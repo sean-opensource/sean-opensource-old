@@ -1,1 +1,1 @@
-# sean-opensource.gitbub.io
+# sean-opensource.github.io
